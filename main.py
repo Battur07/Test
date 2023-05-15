@@ -9,7 +9,7 @@ load_dotenv()
 TARGET = 'soyl_erdn'
 PASSWORD = getenv('PASSWORD', 'Mongolia@123')
 # ==============================================
-
+#ta
 class MrInsta:
     def __init__(self) -> None:
         print(f'[+] Target: {TARGET}')
